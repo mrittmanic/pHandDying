@@ -33,7 +33,7 @@ Meagen &amp; Dieter's ModSim Project 1
 7. Done!
 
 #### my repo vs your fork
-You can always the current state of my notebook (my repo) by going to https://github.com/Inkering/pHandDying .
+You can always find the current state of my notebook (my repo) by going to https://github.com/Inkering/pHandDying .
 Your fork can be found at https://github.com/{yourusername}/pHandDying
 
 #### deleting a fork
