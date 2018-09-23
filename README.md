@@ -36,4 +36,11 @@ Meagen &amp; Dieter's ModSim Project 1
 You can always the current state of my notebook (my repo) by going to https://github.com/Inkering/pHandDying .
 Your fork can be found at https://github.com/{yourusername}/pHandDying
 
+#### deleting a fork
+If for some reason you feel the need to delete your repo (you probaby won't need to), you can do so by:
+* go to the repo on github (your fork)
+* click on "settings" in the navigation bar, it will be next to "insights"
+* scroll down, and click on "delete this repository". It will make you type the
+  name of the repo as confirmation that really want to delete it.
+
 Eventually, we'll merge changes between the two "repos" so that we are all updated.
